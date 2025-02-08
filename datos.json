@@ -1,0 +1,46 @@
+{
+    "personas": [
+        {
+            "id": 1,
+            "nombre": "Juan Pèrez",
+            "edad": 30,
+            "ciudad": "Manizales",
+            "correo": "andres@gmail.com",
+            "profesion": "Ingeniero de Software",
+            "imagen": "https://randomuser.me/api/portraits/men/1.jpg",
+            "intereses": [
+                "Programaciòn",
+                "Fùtbol",
+                "Lectura"
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Raul Garcia",
+            "edad": 27,
+            "ciudad": "Bogota",
+            "correo": "raul@gmail.com",
+            "profesion": "Ingeniero Junior",
+            "imagen": "https://randomuser.me/api/portraits/men/2.jpg",
+            "intereses": [
+                "Investigación",
+                "Cine",
+                "Deportes"
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos López",
+            "edad": 35,
+            "ciudad": "Cali",
+            "correo": "carlos.lopez@email.com",
+            "profesion": "Médico",
+            "imagen": "https://randomuser.me/api/portraits/men/3.jpg",
+            "intereses": [
+                "Investigación",
+                "Cine",
+                "Deportes"
+            ]
+        }
+    ]
+}
