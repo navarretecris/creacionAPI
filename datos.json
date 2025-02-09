@@ -41,6 +41,34 @@
                 "Cine",
                 "Deportes"
             ]
+        },
+        {
+            "id": 4,
+            "nombre": "Cristian Navarrete",
+            "edad": 39,
+            "ciudad": "Manizales",
+            "correo": "cristian.navarrete@email.com",
+            "profesion": "Médico",
+            "imagen": "https://randomuser.me/api/portraits/men/4.jpg",
+            "intereses": [
+                "Crossfit",
+                "Bicicleta de montaña",
+                "Lectura"
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Juliana Lopez",
+            "edad": 35,
+            "ciudad": "Medellin",
+            "correo": "juliana.lopez@email.com",
+            "profesion": "Médico",
+            "imagen": "https://randomuser.me/api/portraits/women/1.jpg",
+            "intereses": [
+                "Investigación",
+                "Cine",
+                "Deportes"
+            ]
         }
     ]
 }

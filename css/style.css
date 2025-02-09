@@ -1,0 +1,110 @@
+.custom-card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .custom-card:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+ 
+  .card-header {
+    position: relative;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-header img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    position: absolute;
+    bottom: -40px;
+  }
+  
+ 
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 40px;
+  }
+  
+  .card-subtitle {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+    color: #444;
+  }
+  
+ 
+  .interests-list {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .interests-list li {
+    font-size: 0.85rem;
+    color: #666;
+  }
+
+
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+ 
+  .page-header {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .page-header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .page-header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+ 
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    justify-content: center;
+  }
+  
+
+  .page-footer {
+    background: #6a11cb;
+    color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+
+  body {
+    background: linear-gradient(to bottom, #f8f9fa, #eaeaea);
+  }
